@@ -1,2 +1,2 @@
-# ML Protein Ligand Binding Interaction
-I used machine learning and molecular docking methods to predict the binding energies of protein-ligand complexes. 
+# Virtual Screening of Potential Inhibitors
+I used molecular docking and molecular dynamics to predict the binding energies of protein-ligand complexes. 
